@@ -40,3 +40,4 @@ tab2
 
 # Goodness-of-fit test
 with(mymodel, pchisq(null.deviance - deviance, df.null-df.residual, lower.tail = F))
+
